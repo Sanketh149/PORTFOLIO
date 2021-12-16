@@ -9,11 +9,11 @@ This site is a home page for my portfolio. It is the first independent project f
 
 Setup/Installation Requirements
 Open terminal or a similar app on your computer
-change directory to Desktop
+change directory to Desktop:
 copy https://github.com/Sanketh149/PORTFOLIO.git
 use git clone and paste that link after it to clone the repository
 open the folder it provides
-open the HTML folder inside
+open the HTML folder inside:
 https://github.com/Sanketh149/PORTFOLIO.git
 
 
@@ -23,6 +23,7 @@ email: k.sanketh123@gmail.com
 Technologies Used
 HTML CSS JAVA SCRIPT
 
-To know about the website visit:https://sanketh-portfolio.netlify.app/
+To know about the website visit:
+https://sanketh-portfolio.netlify.app/
 
 Copyright(c) 2021 sanketh kumar
