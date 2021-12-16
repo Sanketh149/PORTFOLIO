@@ -23,6 +23,6 @@ email: k.sanketh123@gmail.com
 Technologies Used
 HTML CSS JAVA SCRIPT
 
-
+To know about the website visit:https://sanketh-portfolio.netlify.app/
 
 Copyright(c) 2021 sanketh kumar
